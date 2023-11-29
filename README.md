@@ -410,7 +410,7 @@ This example is located in the **nginx** directory:
 
 *   `nginx/nginx/` -> contains sources of our docker image (Dockerfile)
 *   `nginx/www/` -> contains the static files we want to serve
-*   `nginx/log/` -> will store the server logs
+*   `nginx/log/` -> will store the server logs 
 *   `nginx/docker-compose.yml` -> docker compose configuration
 
 Procedure:
